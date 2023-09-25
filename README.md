@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React Native, Web Security, Kali Linux**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, C,C++**
-
 - 📫 How to reach me **ghoshsuvrajit17@gmail.com**
 
 - ⚡ Fun fact **Positive+ with touch of HUMOUR**

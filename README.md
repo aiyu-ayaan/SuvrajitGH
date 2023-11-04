@@ -1,4 +1,3 @@
-![MasterHead](https://c0.wallpaperflare.com/preview/1004/350/396/abstract-php-c-analytics.jpg)
 <h1 align="center">Hello 👋, I'm Suvrajit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

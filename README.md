@@ -5,7 +5,7 @@
 
 - 🦀 I’m currently learning **RUST**
 
-- 🌱 I’m currently learning **React Native, Web Security, Kali Linux**
+- 💻 I’m currently learning **React Native, Web Security, Kali Linux**
 
 - 📫 How to reach me **ghoshsuvrajit17@gmail.com**
 

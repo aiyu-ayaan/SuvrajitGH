@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Positive+ with touch of HUMOUR**
 
-- 🧑‍💻 My portFolio [Link](sg-vision.vercel.app)
+- 🧑‍💻 My portFolio [Link](https://sg-vision.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
